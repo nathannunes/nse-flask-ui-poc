@@ -1,0 +1,5 @@
+flask
+zappa
+flask-login
+Flask-SQLAlchemy
+requests

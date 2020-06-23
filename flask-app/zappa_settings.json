@@ -1,0 +1,11 @@
+{
+    "dev": {
+        "app_function": "init.app",
+        "profile_name": "default",
+        "project_name": "flask-app",
+        "runtime": "python3.7",
+        "s3_bucket": "zappa-0e504qphr",
+        "aws_region": "ap-south-1"
+
+    }
+}
